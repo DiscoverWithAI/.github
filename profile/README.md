@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/DiscoverWithAI/.github/3b4609d0bfeb4b1826a020e87cab530357514858/logo.svg" width="20%">
-</p>
+</div>
 
 <div align="center">
   <h1>Discover With AI</h1>
